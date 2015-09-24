@@ -1,0 +1,4 @@
+D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Services\bin\Debug\AutofacMvcPluginDemo.Services.dll
+D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Services\bin\Debug\AutofacMvcPluginDemo.Services.pdb
+D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Services\obj\Debug\AutofacMvcPluginDemo.Services.dll
+D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Services\obj\Debug\AutofacMvcPluginDemo.Services.pdb

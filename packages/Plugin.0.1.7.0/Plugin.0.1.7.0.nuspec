@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Plugin</id>
+    <version>0.1.7.0</version>
+    <title>Plugin</title>
+    <authors>shiningrise@gmail.com</authors>
+    <owners>shiningrise@gmail.com</owners>
+    <projectUrl>https://github.com/shiningrise/Plugin</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Plugin</description>
+    <releaseNotes>Plugin soft.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Plugin</tags>
+    <dependencies>
+      <dependency id="Plugin.Interfaces" version="0.1.0.0" />
+    </dependencies>
+  </metadata>
+</package>

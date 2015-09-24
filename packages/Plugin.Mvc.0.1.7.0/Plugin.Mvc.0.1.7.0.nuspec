@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Plugin.Mvc</id>
+    <version>0.1.7.0</version>
+    <title>Plugin.Mvc</title>
+    <authors>shiningrise@gmail.com</authors>
+    <owners>shiningrise@gmail.com</owners>
+    <projectUrl>https://github.com/shiningrise/Plugin</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Plugin Mvc WebApplication</description>
+    <releaseNotes>Plugin MVC WebApplication.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Plugin MVC</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Mvc" version="5.1.0" />
+      <dependency id="Plugin" version="0.1.7.0" />
+    </dependencies>
+  </metadata>
+</package>
