@@ -5,7 +5,7 @@ using System.Web.Mvc;
 using System.IO;
 using Autofac;
 using Autofac.Integration.Mvc;
-using AutofacMvcPluginDemo.Services;
+//using AutofacMvcPluginDemo.Services;
 
 namespace AutofacMvcPluginDemo.Web
 {
@@ -30,14 +30,14 @@ namespace AutofacMvcPluginDemo.Web
             {
                 builder.RegisterControllers(assembly).PropertiesAutowired().InstancePerRequest();
             }
-
-            //builder.RegisterType<TestService>().As<ITestService>().AsImplementedInterfaces().InstancePerRequest();
-            builder.RegisterControllers(typeof(MvcApplication).Assembly).PropertiesAutowired().AsImplementedInterfaces().InstancePerRequest();
-
+            
             //注册主项目的Controllers
             builder.RegisterControllers(Assembly.GetExecutingAssembly()).PropertiesAutowired();
 
             var container = builder.Build();
+
+            var beginLifetimeScope = container.BeginLifetimeScope();
+
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
         }
     }

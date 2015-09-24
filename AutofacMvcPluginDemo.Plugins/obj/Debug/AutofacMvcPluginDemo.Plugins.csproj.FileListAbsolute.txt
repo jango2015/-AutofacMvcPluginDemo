@@ -31,3 +31,9 @@ D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Plugins\obj\De
 D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Web\Plugins\AutofacMvcPluginDemo.Plugins.dll.config
 D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Web\Plugins\AutofacMvcPluginDemo.Plugins.dll
 D:\AutofacMvcPluginDemo\AutofacMvcPluginDemo\AutofacMvcPluginDemo.Web\Plugins\AutofacMvcPluginDemo.Plugins.pdb
+D:\AutofacMvcPluginDemo\-AutofacMvcPluginDemo\AutofacMvcPluginDemo.Web\Plugins\AutofacMvcPluginDemo.Plugins.dll.config
+D:\AutofacMvcPluginDemo\-AutofacMvcPluginDemo\AutofacMvcPluginDemo.Web\Plugins\AutofacMvcPluginDemo.Plugins.dll
+D:\AutofacMvcPluginDemo\-AutofacMvcPluginDemo\AutofacMvcPluginDemo.Web\Plugins\AutofacMvcPluginDemo.Plugins.pdb
+D:\AutofacMvcPluginDemo\-AutofacMvcPluginDemo\AutofacMvcPluginDemo.Plugins\obj\Debug\AutofacMvcPluginDemo.Plugins.csprojResolveAssemblyReference.cache
+D:\AutofacMvcPluginDemo\-AutofacMvcPluginDemo\AutofacMvcPluginDemo.Plugins\obj\Debug\AutofacMvcPluginDemo.Plugins.dll
+D:\AutofacMvcPluginDemo\-AutofacMvcPluginDemo\AutofacMvcPluginDemo.Plugins\obj\Debug\AutofacMvcPluginDemo.Plugins.pdb
